@@ -1,1 +1,2 @@
 test mirroring
+test gitattributes
