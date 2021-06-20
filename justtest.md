@@ -1,3 +1,3 @@
 test mirroring
 test gitattributes
-test1
+gitlab-ci in master branch
