@@ -1,1 +1,2 @@
 *.rb diff=ruby
+.gitlab-ci.yml merge=ours
